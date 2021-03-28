@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.exe
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\bin\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\RealCalculator\obj\Debug\netcoreapp3.1\RealCalculator.genruntimeconfig.cache

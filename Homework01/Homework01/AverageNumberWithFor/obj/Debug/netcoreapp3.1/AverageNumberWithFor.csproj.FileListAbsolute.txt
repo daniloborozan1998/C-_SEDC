@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.exe
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\bin\Debug\netcoreapp3.1\AverageNumberWithFor.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\AverageNumberWithFor\obj\Debug\netcoreapp3.1\AverageNumberWithFor.genruntimeconfig.cache

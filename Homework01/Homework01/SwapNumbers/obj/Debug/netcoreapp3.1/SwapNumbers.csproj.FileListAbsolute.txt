@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\Danilo Borozan\Desktop\Homework01\Homework01\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache
