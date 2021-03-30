@@ -7,28 +7,36 @@ namespace Task5
         static void Main(string[] args)
         {
             Console.WriteLine("Pleas enter a number from 1 to 3:");
-            int action = Convert.ToInt32(Console.ReadLine());
-            switch (action)
+            bool succ = int.TryParse(Console.ReadLine(), out int action);
+            if (succ)
             {
-                case 1:
-                    {
-                        Console.WriteLine("You got a new car!");
+                switch (action)
+                {
+                    case 1:
+                        {
+                            Console.WriteLine("You got a new car!");
+                            break;
+                        }
+                    case 2:
+                        {
+                            Console.WriteLine("You got a new plane!");
+                            break;
+                        }
+                    case 3:
+                        {
+                            Console.WriteLine("You got a new bike!");
+                            break;
+                        }
+                    default:
+                        Console.WriteLine("Wrong number or character!! try again");
                         break;
-                    }
-                case 2:
-                    {
-                        Console.WriteLine("You got a new plane!");
-                        break;
-                    }
-                case 3:
-                    {
-                        Console.WriteLine("You got a new bike!");
-                        break;
-                    }
-                default:
-                    Console.WriteLine("Wrong number or character!! try again");
-                    break;
+                }
             }
+            else
+            {
+                Console.WriteLine("Pleas enter number(1,2,3)");
+            }
+            
 
             Console.ReadLine();
         }
