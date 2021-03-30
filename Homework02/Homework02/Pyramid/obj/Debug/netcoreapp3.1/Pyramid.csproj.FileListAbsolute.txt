@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.genruntimeconfig.cache
