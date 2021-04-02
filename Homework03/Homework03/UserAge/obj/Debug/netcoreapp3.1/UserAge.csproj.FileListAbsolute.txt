@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.exe
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\bin\Debug\netcoreapp3.1\UserAge.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\UserAge\obj\Debug\netcoreapp3.1\UserAge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.exe
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\bin\Debug\netcoreapp3.1\FindWord.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\FindWord\obj\Debug\netcoreapp3.1\FindWord.genruntimeconfig.cache

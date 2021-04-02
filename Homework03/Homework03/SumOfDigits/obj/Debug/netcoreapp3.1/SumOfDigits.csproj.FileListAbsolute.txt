@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache

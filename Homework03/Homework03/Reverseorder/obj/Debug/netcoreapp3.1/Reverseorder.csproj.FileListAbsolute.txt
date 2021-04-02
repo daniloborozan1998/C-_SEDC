@@ -1,0 +1,13 @@
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.exe
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\bin\Debug\netcoreapp3.1\Reverseorder.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.dll
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.pdb
+C:\Users\Danilo Borozan\Desktop\Homework03\Homework03\Reverseorder\obj\Debug\netcoreapp3.1\Reverseorder.genruntimeconfig.cache
