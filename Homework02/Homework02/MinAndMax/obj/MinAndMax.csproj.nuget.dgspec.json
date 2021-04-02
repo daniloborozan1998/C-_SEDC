@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj",
         "projectName": "MinAndMax",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\MinAndMax\\MinAndMax.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\MinAndMax\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\MinAndMax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

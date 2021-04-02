@@ -6,10 +6,11 @@ namespace SumOfEven
     {
         static void Main(string[] args)
         {
-            int[] array = new int[6];
-            int sum = 0;
+            
             Console.WriteLine("Please enter number of element in array: ");
             bool success = int.TryParse(Console.ReadLine(), out int numOfElement);
+            int[] array = new int[numOfElement];
+            int sum = 0;
             if (success)
             {
    

@@ -6,36 +6,36 @@ namespace MinAndMax
     {
         static void Main(string[] args)
         {
-            int[] array = new int[10];
-            int min = 0;
-            int max = 0;
+            
             Console.WriteLine("Please enter number of element in array: ");
             bool success = int.TryParse(Console.ReadLine(), out int numOfElement);
+            int[] array = new int[numOfElement];
+            
             if (success)
             {
-                
+                int min = 0;
+                int max = 0;
                 Console.WriteLine($"Input {numOfElement} elements in the array :");
                 for (int i = 0; i < numOfElement; i++)
                 {
                     Console.WriteLine($"element - {i} : ");
                     bool succ = int.TryParse(Console.ReadLine(), out array[i]);
-                    if (succ)
-                    {
+                    
                         max = array[0];
                         min = array[0];
-                        if (array[i] > max)
+                        for (int j = 0; j < numOfElement; j++)
                         {
-                            max = array[i];
+                            if (array[j] > max)
+                            {
+                                max = array[j];
+                            }
+
+                            if (array[j] < min)
+                            {
+                                min = array[j];
+                            }
                         }
-                        if (array[i] < min)
-                        {
-                            min = array[i];
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("Enter a number");
-                    }
+                    
                 }
                 Console.WriteLine($"Minimum element is : {min}");
                 Console.WriteLine($"Maximum element is : {max}");

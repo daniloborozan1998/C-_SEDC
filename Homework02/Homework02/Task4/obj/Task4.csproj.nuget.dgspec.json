@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\Task4\\Task4.csproj": {}
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\Task4\\Task4.csproj": {
+    "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\Task4\\Task4.csproj",
+        "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework02\\Homework02\\Task4\\obj\\",
+        "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework02\\Homework02\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

@@ -11,3 +11,16 @@ C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\SumOfEven\obj\Debug\netcor
 C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.dll
 C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.pdb
 C:\Users\Danilo Borozan\Desktop\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.genruntimeconfig.cache
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.exe
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.deps.json
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\bin\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.dll
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.pdb
+C:\Users\Danilo Borozan\Desktop\Seavus\C_Sharp_SEDC\Homework02\Homework02\SumOfEven\obj\Debug\netcoreapp3.1\SumOfEven.genruntimeconfig.cache
