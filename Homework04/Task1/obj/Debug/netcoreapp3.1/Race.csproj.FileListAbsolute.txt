@@ -1,0 +1,12 @@
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.exe
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\bin\Debug\netcoreapp3.1\Race.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.dll
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.pdb
+C:\Users\Danilo Borozan\Desktop\Homework04\Task1\obj\Debug\netcoreapp3.1\Race.genruntimeconfig.cache
