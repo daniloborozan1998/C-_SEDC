@@ -7,8 +7,8 @@ namespace App
     {
         static void Main(string[] args)
         {
-            Manager firstManager = new Manager("Lea", "Leova");
-            Manager secondManager = new Manager("John", "Johnsky");
+            Manager firstManager = new Manager("Lea", "Leova",1200);
+            Manager secondManager = new Manager("John", "Johnsky",1100);
             SalesPerson salesPerson = new SalesPerson("Mona", "Monalisa");
             Contractor firstContractor = new Contractor("Bob ", "Bobert", 6.5,450,firstManager);
             Contractor secondContractor = new Contractor("Rick ", "Rickert", 5.5,400,secondManager);

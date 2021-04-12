@@ -15,16 +15,17 @@ namespace Domain.Classes
         }
         public override double GetSalary()
         {
-            Salary += _bonus;
-            return Salary;
+            
+            return Salary + _bonus;
         }
 
-        public Manager(string firstName,string lastName) : base(firstName, lastName)
+        public Manager(string firstName,string lastName, double salary) : base(firstName, lastName)
         {
             FirstName = firstName;
             LastName = lastName;
             Role = RoleEnum.Manager;
-            Salary = 1000;
+            Salary = salary;
+            _bonus = 0;
         }
     }
 }
