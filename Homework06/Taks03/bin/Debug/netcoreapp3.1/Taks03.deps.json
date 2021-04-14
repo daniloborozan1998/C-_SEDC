@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Taks03/1.0.0": {
+        "dependencies": {
+          "Task3-Classes": "1.0.0"
+        },
+        "runtime": {
+          "Taks03.dll": {}
+        }
+      },
+      "Task3-Classes/1.0.0": {
+        "runtime": {
+          "Task3-Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taks03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task3-Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

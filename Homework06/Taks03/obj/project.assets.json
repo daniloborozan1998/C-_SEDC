@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task3-Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Task3-Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Task3-Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task3-Classes/1.0.0": {
+      "type": "project",
+      "path": "../Task3-Classes/Task3-Classes.csproj",
+      "msbuildProject": "../Task3-Classes/Task3-Classes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Task3-Classes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Danilo Borozan\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework06\\Taks03\\Taks03.csproj",
+      "projectName": "Taks03",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework06\\Taks03\\Taks03.csproj",
+      "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework06\\Taks03\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Danilo Borozan\\Desktop\\Homework06\\Task3-Classes\\Task3-Classes.csproj": {
+              "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework06\\Task3-Classes\\Task3-Classes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

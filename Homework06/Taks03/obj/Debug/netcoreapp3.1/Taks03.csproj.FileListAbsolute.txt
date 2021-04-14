@@ -1,0 +1,16 @@
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.exe
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.dll
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Taks03.pdb
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Task3-Classes.dll
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\bin\Debug\netcoreapp3.1\Task3-Classes.pdb
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.dll
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.pdb
+C:\Users\Danilo Borozan\Desktop\Homework06\Taks03\obj\Debug\netcoreapp3.1\Taks03.genruntimeconfig.cache
