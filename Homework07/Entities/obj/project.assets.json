@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Danilo Borozan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Homework07\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Danilo Borozan\\Desktop\\Seavus\\C_Sharp_SEDC\\Homework07\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Danilo Borozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
