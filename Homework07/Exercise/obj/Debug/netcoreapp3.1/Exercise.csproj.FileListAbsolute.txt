@@ -1,0 +1,16 @@
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.csprojAssemblyReference.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CopyComplete
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+C:\Users\Danilo Borozan\Desktop\Homework07\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache
